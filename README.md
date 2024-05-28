@@ -34,6 +34,6 @@ Esta aplicación a partir de una serie de datos históricos de demanda con al me
 
 En el repositorio se encuentra una serie de datos de ejemplo que puede utilizar para probar la aplicación llamada `serie.csv`, con el siguiente comando de ejemplo puede crear un archivo llamado `predicciones.csv`  con el pronóstico de la demanda de la próxima semana (168 horas):
 
-    ```sh
-    python forecast_cli.py ruta_datos.csv 168 predicciones.csv
-    ```
+```sh
+python forecast_cli.py ruta_datos.csv 168 predicciones.csv
+```
